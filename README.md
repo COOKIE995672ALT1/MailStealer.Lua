@@ -1,0 +1,2 @@
+# MailStealer.Lua
+MailStealer
